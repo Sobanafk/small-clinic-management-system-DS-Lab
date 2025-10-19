@@ -1,0 +1,5 @@
+4
+3
+1|John Smith|35|Hypertension|555-0101|123 Main St
+2|Sarah Johnson|28|Diabetes|555-0102|456 Oak Ave
+3|Michael Brown|42|Asthma|555-0103|789 Pine Rd
