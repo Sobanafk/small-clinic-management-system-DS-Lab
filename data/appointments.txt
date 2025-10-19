@@ -1,0 +1,4 @@
+2
+2
+1|1|1|John Smith|Dr. Emily Davis|15/01/2024|10:00|Scheduled|Regular checkup
+2|2|2|Sarah Johnson|Dr. Robert Wilson|16/01/2024|14:30|Scheduled|Diabetes management
